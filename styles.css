@@ -1,0 +1,166 @@
+body{
+    margin-top: 0px;
+    text-align: center; 
+    font-family: 'Poppins', sans-serif;
+    color: #40514E;
+}
+
+h1{
+    color: #66BFBF;
+    margin: 0 auto 0 auto;
+    padding-top: 80px;
+    font-size: 5.625rem;
+    font-family: 'Sacramento', cursive;  
+    line-height: 2;
+}
+
+h2{
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    /* font-weight: normal; */
+    padding-bottom: 10px;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    
+}
+
+.topcontainer{
+    background-color: #E4F9F5;
+} 
+
+.middle-container{
+    margin: 100px 0;
+}
+
+.t{
+    font-size: 2.1rem;
+    color: #66BFBF;
+    font-weight: normal;
+
+}
+
+.pro{
+    text-decoration: none;
+    font-size: 2.1rem;
+    color: #66BFBF;
+    font-weight: normal;
+
+} 
+
+.top-cloud{
+    position: absolute;
+    padding-left: 250px;
+    padding-top: 50px;
+
+}
+
+.bottom-cloud{
+    position: absolute;
+}
+
+.footer-link{
+    color: #11999E;
+
+}
+
+.skill-row{
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+}
+
+p{
+    line-height: 2;
+}
+
+.code{
+    float: left;
+    margin-right: 35px;
+
+}
+
+.cake{
+    float: right;
+    margin-right: 35px;
+
+}
+
+.intro{
+     width: 30%;
+    margin: auto;
+}
+
+hr {
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto 100px auto;
+}
+
+.game {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.btn{
+    border: solid 1px #11999E;
+    color: #fff;
+    background-color: #11999E;
+    text-decoration: none;
+}
+
+.copy{
+    color: #EAF6F6;
+    font-size: 1.1rem;
+    padding: 20px 0;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 20px 50px;
+    width: 100%;
+    height: 100%;
+}
+
+a{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #EAF6F6;
+}
+
+/* button genrator */
+
+.btn {
+    background: #11CDD4;
+    background-image: -webkit-linear-gradient(top, #11CDD4, #11999e);
+    background-image: -moz-linear-gradient(top, #11CDD4, #11999e);
+    background-image: -ms-linear-gradient(top, #11CDD4, #11999e);
+    background-image: -o-linear-gradient(top, #11CDD4, #11999e);
+    background-image: linear-gradient(to bottom, #11CDD4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
